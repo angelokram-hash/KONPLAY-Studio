@@ -1,8 +1,4 @@
 {
   "version": 2,
-  "functions": {
-    "api/generate.js": {
-      "maxDuration": 60
-    }
-  }
+  "public": false
 }
